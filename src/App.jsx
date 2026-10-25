@@ -140,7 +140,7 @@ function App() {
     </div>
 
     <section className="hero" id="inicio">
-      <div className="hero-copy"><span className="eyebrow">✨ PORTAL DE PERMISOS</span><h1>¡Pide tu permiso!</h1><p>Completa los datos y prepara tu solicitud en unos minutos.</p></div>
+      <div className="hero-copy"><span className="eyebrow">✨ PORTAL DE PERMISOS</span><h1>¡Bienvenido/a!</h1><p>Este portal te ayuda a preparar una solicitud de permiso escolar para tu hija o hijo. Completa los datos del estudiante, del tutor y del permiso; al finalizar, podrás imprimir o guardar la solicitud en PDF para entregarla en la escuela.</p></div>
       <div className="hero-badge"><span>🔒</span><div><strong>Privado y seguro</strong><small>Tu información se guarda solo en este dispositivo.</small></div></div>
     </section>
 
